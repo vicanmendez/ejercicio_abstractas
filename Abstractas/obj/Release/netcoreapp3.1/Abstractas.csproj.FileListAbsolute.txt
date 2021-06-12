@@ -1,0 +1,11 @@
+C:\Users\Víctor\source\repos\Abstractas\Abstractas\bin\Release\netcoreapp3.1\Abstractas.exe
+C:\Users\Víctor\source\repos\Abstractas\Abstractas\bin\Release\netcoreapp3.1\Abstractas.deps.json
+C:\Users\Víctor\source\repos\Abstractas\Abstractas\bin\Release\netcoreapp3.1\Abstractas.runtimeconfig.json
+C:\Users\Víctor\source\repos\Abstractas\Abstractas\bin\Release\netcoreapp3.1\Abstractas.runtimeconfig.dev.json
+C:\Users\Víctor\source\repos\Abstractas\Abstractas\bin\Release\netcoreapp3.1\Abstractas.dll
+C:\Users\Víctor\source\repos\Abstractas\Abstractas\bin\Release\netcoreapp3.1\Abstractas.pdb
+C:\Users\Víctor\source\repos\Abstractas\Abstractas\obj\Release\netcoreapp3.1\Abstractas.csprojAssemblyReference.cache
+C:\Users\Víctor\source\repos\Abstractas\Abstractas\obj\Release\netcoreapp3.1\Abstractas.AssemblyInfoInputs.cache
+C:\Users\Víctor\source\repos\Abstractas\Abstractas\obj\Release\netcoreapp3.1\Abstractas.AssemblyInfo.cs
+C:\Users\Víctor\source\repos\Abstractas\Abstractas\obj\Release\netcoreapp3.1\Abstractas.dll
+C:\Users\Víctor\source\repos\Abstractas\Abstractas\obj\Release\netcoreapp3.1\Abstractas.pdb
